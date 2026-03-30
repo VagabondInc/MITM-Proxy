@@ -1,0 +1,5 @@
+{
+  "name": "NetRoute Pro",
+  "description": "Professional macOS network utility for intercepting, inspecting, and rerouting application traffic.",
+  "requestFramePermissions": []
+}
